@@ -1,0 +1,8 @@
+/*jogo(nome, ano).
+desenvolvedora(nome, desenvolvedora).
+genero(nome, fps).
+multiplayer(nome, sim/não).*/
+
+
+
+
