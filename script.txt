@@ -1,7 +1,280 @@
-/*jogo(nome, ano).
-desenvolvedora(nome, desenvolvedora).
-genero(nome, fps).
-multiplayer(nome, sim/não).*/
+jogo(fifa20,2019).
+jogo(anthem,2019).
+jogo(needforspeedheat,2019).
+jogo(forzahorizon4,2018).
+jogo(battlefieldv,2018).
+jogo(callofdutyadvancedwarfare,2014).
+jogo(forzamotorsport7,2017).
+jogo(eurotrucksimulator2,2012).
+jogo(farmingsimulator17,2016).
+jogo(grandtheftautov,2013).
+jogo(burnoutparadise,2008).
+jogo(ufc3,2018).
+jogo(unraveltwo,2018).
+jogo(masseffectandromeda,2017).
+jogo(battlefield1,2016).
+jogo(starwarsbattlefrontii,2017).
+jogo(mortalkombatx,2015).
+jogo(titanfall2,2016).
+jogo(battlefieldhardline,2015).
+jogo(nba2k17,2016).
+jogo(needforspeedrivals,2013).
+jogo(battlefield4,2013).
+jogo(maddennfl25,2013).
+jogo(deadspace3,2013).
+jogo(dragonageinquisition,2014).
+jogo(fightnightchampion,2011).
+jogo(skate3,2010).
+jogo(battlefieldbadcompany2,2010).
+jogo(plantsvszombiesgardenwarfare2,2016).
+jogo(mirrorsedge,2008).
+jogo(black,2005).
+jogo(medalofhonorairborne,2007).
+jogo(thesims4,2014).
+jogo(needforspeedpayback,2017).
+jogo(callofdutyghosts,2013).
+jogo(worldoftanks,2010).
+jogo(rysesonofrome,2013).
+jogo(forzamotorsport4,2011).
+jogo(grandtheftautosanandreas,2004).
+jogo(gears5,2019).
+jogo(crackdown3,2019).
+jogo(oriandthewillofthewisps,2019).
+jogo(proevolutionsoccer2020,2019).
+jogo(wrc7fiaworldrallychampionship,2017).
+jogo(granturismosport,2017).
+jogo(f12017,2017).
+jogo(dirt4,2017).
+jogo(projectcars2,2017).
+jogo(tekken4,2001).
+jogo(projectcars,2015).
+jogo(doom,2005).
+jogo(watchdogs,2014).
+jogo(farcry5,2018).
+jogo(farcryprimal,2016).
+jogo(warface,2013).
+
+
+desenvolvedora(fifa20,electronicarts).
+desenvolvedora(anthem,bioware).
+desenvolvedora(needforspeedheat,ghostgames).
+desenvolvedora(forzahorizon4,turn10studios).
+desenvolvedora(battlefieldv,eadice).
+desenvolvedora(callofdutyadvancedwarfare,sledgehammergames).
+desenvolvedora(forzamotorsport7,turn10studios).
+desenvolvedora(eurotrucksimulator2,scssoftware).
+desenvolvedora(farmingsimulator17,giantssoftware).
+desenvolvedora(grandtheftautov,rockstarnorth).
+desenvolvedora(burnoutparadise,criteriongames).
+desenvolvedora(ufc3,eavancouver).
+desenvolvedora(unraveltwo,coldwoodinteractive).
+desenvolvedora(masseffectandromeda,bioware).
+desenvolvedora(battlefield1,eadice).
+desenvolvedora(starwarsbattlefrontii,eadice).
+desenvolvedora(mortalkombatx,netherrealmstudios).
+desenvolvedora(titanfall2,respawnentertainment).
+desenvolvedora(battlefieldhardline,eadice).
+desenvolvedora(nba2k17,visualconcepts).
+desenvolvedora(needforspeedrivals,ghostgames).
+desenvolvedora(battlefield4,eadice).
+desenvolvedora(maddennfl25,eatiburon).
+desenvolvedora(deadspace3,visceralgames).
+desenvolvedora(dragonageinquisition,bioware).
+desenvolvedora(fightnightchampion,eavancouver).
+desenvolvedora(skate3,eablackbox).
+desenvolvedora(battlefieldbadcompany2,eadice).
+desenvolvedora(plantsvszombiesgardenwarfare2,popcapgames).
+desenvolvedora(mirrorsedge,eadice).
+desenvolvedora(black,criteriongames).
+desenvolvedora(medalofhonorairborne,dicelosangeles).
+desenvolvedora(thesims4,thesimsstudio).
+desenvolvedora(needforspeedpayback,ghostgames).
+desenvolvedora(callofdutyghosts,infinityward).
+desenvolvedora(worldoftanks,wargaming).
+desenvolvedora(rysesonofrome,crytek).
+desenvolvedora(forzamotorsport4,turn10studios).
+desenvolvedora(grandtheftautosanandreas,rockstarnorth).
+desenvolvedora(gears5,thecoalition).
+desenvolvedora(crackdown3,sumodigital).
+desenvolvedora(oriandthewillofthewisps,moonstudios).
+desenvolvedora(proevolutionsoccer2020,konami).
+desenvolvedora(wrc7fiaworldrallychampionship,kylotonn).
+desenvolvedora(granturismosport,polyphonydigital).
+desenvolvedora(f12017,feralinteractive).
+desenvolvedora(dirt4,feralinteractive).
+desenvolvedora(projectcars2,slightlymadstudios).
+desenvolvedora(tekken4,namco).
+desenvolvedora(doom,idsoftware).
+desenvolvedora(doom,midwaygames).
+desenvolvedora(doom,vicariousvisions).
+desenvolvedora(watchdogs,ubisoftmontreal).
+desenvolvedora(farcry5,ubisoftmontreal).
+desenvolvedora(farcry5,ubisoftshanghai).
+desenvolvedora(farcry5, ubisoftreflections).
+desenvolvedora(farcry5,ubisofttoronto).
+desenvolvedora(farcry5,redstorm).
+desenvolvedora(farcry5,ubisoftukraine).
+desenvolvedora(farcryprimal,ubisoftukraine).
+desenvolvedora(farcryprimal,ubisoft).
+desenvolvedora(farcryprimal,ubisoftmontreal).
+desenvolvedora(farcryprimal,ubisofttoronto).
+desenvolvedora(warface, crytek).
+desenvolvedora(warface,crytekkiev).
+
+
+genero(fifa20,futebol).
+genero(anthem,rpg).
+genero(needforspeedheat,corrida).
+genero(battlefieldv,tiro).
+genero(callofdutyadvancedwarfare,tiro).
+genero(forzamotorsport7,simulador).
+genero(eurotrucksimulator2,simulador).
+genero(farmingsimulator17,simulador).
+genero(grandtheftautov,acao).
+genero(burnoutparadise,corrida).
+genero(ufc3,luta).
+genero(unraveltwo,plataforma).
+genero(masseffectandromeda,rpg).
+genero(battlefield1,tiro).
+genero(starwarsbattlefrontii,tiro).
+genero(mortalkombatx,luta).
+genero(titanfall2,tiro).
+genero(battlefieldhardline,tiro).
+genero(nba2k17,esporte).
+genero(needforspeedrivals,corrida).
+genero(battlefield4,tiro).
+genero(maddennfl25,esporte).
+genero(deadspace3,tiro).
+genero(dragonageinquisition,rpg).
+genero(fightnightchampion,esporte).
+genero(skate3,esporte).
+genero(battlefieldbadcompany2,tiro).
+genero(plantsvszombiesgardenwarfare2,tiro).
+genero(mirrorsedge,aventura).
+genero(black,tiro).
+genero(medalofhonorairborne,tiro).
+genero(thesims4,simulador).
+genero(needforspeedpayback,corrida).
+genero(callofdutyghosts,tiro).
+genero(worldoftanks,tiro).
+genero(rysesonofrome,acao).
+genero(forzamotorsport4,corrida).
+genero(grandtheftautosanandreas,acao).
+genero(gears5,tiro).
+genero(crackdown3,tiro).
+genero(oriandthewillofthewisps,aventura).
+genero(proevolutionsoccer2020,futebol).
+genero(wrc7fiaworldrallychampionship,corrida).
+genero(granturismosport,corrida).
+genero(f12017,corrida).
+genero(dirt4,corrida).
+genero(projectcars2, corrida).
+genero(tekken4,luta).
+genero(projectcars,corrida).
+genero(doom,tiro).
+genero(watchdogs,aventura).
+genero(farcryprimal,aventura).
+genero(farcry5,aventura).
+genero(warface,tiro).
+
+
+
+multiplayer(fifa20,sim).
+multiplayer(anthem,sim).
+multiplayer(needforspeedheat,sim).
+multiplayer(forzahorizon4,sim).
+multiplayer(battlefieldv,sim).
+multiplayer(callofdutyadvancedwarfare,sim).
+multiplayer(forzamotorsport7,sim).
+multiplayer(eurotrucksimulator2,sim).
+multiplayer(farmingsimulator17,sim).
+multiplayer(grandtheftautov,sim).
+multiplayer(burnoutparadise,sim).
+multiplayer(ufc3,sim).
+multiplayer(unraveltwo,sim).
+multiplayer(masseffectandromeda,sim).
+multiplayer(battlefield1,sim).
+multiplayer(starwarsbattlefrontii,sim).
+multiplayer(mortalkombatx,sim).
+multiplayer(titanfall2,sim).
+multiplayer(battlefieldhardline,sim).
+multiplayer(nba2k17,sim).
+multiplayer(needforspeedrivals,sim).
+multiplayer(battlefield4,sim).
+multiplayer(maddennfl25,sim).
+multiplayer(deadspace3,sim).
+multiplayer(dragonageinquisition,sim).
+multiplayer(fightnightchampion,sim).
+multiplayer(skate3,sim).
+multiplayer(battlefieldbadcompany2,sim).
+multiplayer(plantsvszombiesgardenwarfare2,sim).
+multiplayer(mirrorsedge,nao).
+multiplayer(black,nao).
+multiplayer(medalofhonorairborne,sim).
+multiplayer(thesims4,sim).
+multiplayer(needforspeedpayback,sim).
+multiplayer(callofdutyghosts,sim).
+multiplayer(worldoftanks,sim).
+multiplayer(rysesonofrome,sim).
+multiplayer(forzamotorsport4,sim).
+multiplayer(grandtheftautosanandreas,sim).
+multiplayer(gears5,sim).
+multiplayer(crackdown3,sim).
+multiplayer(oriandthewillofthewisps,sim).
+multiplayer(proevolutionsoccer2020,sim).
+multiplayer(wrc7fiaworldrallychampionship,sim).
+multiplayer(granturismosport,sim).
+multiplayer(f12017,sim).
+multiplayer(dirt4,sim).
+multiplayer(projectcars2,sim).
+multiplayer(tekken4,sim).
+multiplayer(projectcars,sim).
+multiplayer(doom,sim).
+multiplayer(watchdogs,sim).
+multiplayer(farcry5,sim).
+multiplayer(farcryprimal,sim).
+multiplayer(warface,sim).
+
+
+
+/*first*/
+nome(X):-jogo(X,_Y),string_concat("Nome do jogo: ", X, S), writeln(S).
+ano(X):-jogo(X, Y),string_concat("Ano de lançamento: ", Y, D), writeln(D).
+desenvolvedor(X):-desenvolvedora(X, Y),string_concat("Desenvolvedora: ", Y, D), writeln(D).
+genero(X):-genero(X,Y), string_concat("Genero: ", Y, D), writeln(D).
+multiplayer(X):-multiplayer(X, Y), string_concat("Multiplayer: ", Y, D), writeln(D).
+caracteristicas(X):- nome(X),  ano(X), desenvolvedor(X), genero(X), multiplayer(X).
+buscar(X):-jogo(X,_Y)->  caracteristicas(X) ; writeln("Jogo não encontrado!").
+
+/*second*/
+busca_genero(X):- genero(Y,X), string_concat("Genero: ", X, D), string_concat("Jogo: ", Y,C), writeln(D), writeln(C).
+
+/**/
+busca_multiplayer(X):- multiplayer(Y, X), string_concat("Multiplayer: ", X, D), string_concat("Jogo: ", Y,C), writeln(D), writeln(C).
+
+/**/
+busca_desenvolvedora(X):- desenvolvedora(Y, X), string_concat("Desenvolvedora: ", X, D), string_concat("Jogo: ", Y,C), writeln(D), writeln(C).
+
+
+corrida:- busca_genero(corrida).
+
+futebol:- busca_genero(futebol).
+
+multiplayersim:- busca_multiplayer(sim).
+
+multiplayernao:- busca_multiplayer(nao).
+
+jogo:- buscar(tekken4).
+
+jogonao:- buscar(aaa).
+
+desenvolvedora:- busca_desenvolvedora(ubisoft).
+
+
+
+
+
+
 
 
 
